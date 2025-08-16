@@ -1,4 +1,4 @@
-# Robot-Joint-slicing
+# Robot Joint slicing
 
 # Overview
 This project involves preparing a 3D model of a robotic joint for 3D printing. The model is converted to STL format and opened in a slicer (Ankermake Studio) to set the printing parameters.
