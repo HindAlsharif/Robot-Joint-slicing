@@ -31,7 +31,7 @@ Choosing PETG as a 3D printing material because it is:
 
 # Technologies Used
 - Ankermake Studio 
-- Onshare 
+- Onshape 
 - STL 3D model  
 
 # Usage
